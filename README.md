@@ -1,4 +1,4 @@
-### Hi there 👋  <img src="" width="25px">
+### Hi there 👋  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyk7ugT5gwcvhGoGPmUdto5cshsz0uFPbnVg&usqp=CAU" width="25px">
 
 <!--
 **KaushalNanda/KaushalNanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
