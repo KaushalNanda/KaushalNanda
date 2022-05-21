@@ -11,6 +11,7 @@
 <h4>SOME INFORMATION ABOUT ME</H4>
 - 🔭 I’m currently working on "zomato clone project"</BR>
 - 🌱 I’m currently learning JavaScript.<br/>
+
 - 📫 How to reach me kaushalnanda2610@gmail.com
 
 <h4>how can u contact me </H4>
