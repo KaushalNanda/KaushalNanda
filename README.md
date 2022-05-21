@@ -1,4 +1,4 @@
-### Hi there 👋    
+### Hi there 👋    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"/>
 
 
 <h3>Hi, I'm KaushalNanda, a passionate self-taught developer and a IT Student from India.</h3>
