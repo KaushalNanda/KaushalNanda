@@ -11,7 +11,7 @@
 <h4>SOME INFORMATION ABOUT ME</H4>
 - 🔭 I’m currently working on "zomato clone project"</BR>
 - 🌱 I’m currently learning JavaScript.<br/>
-- 📫 How to reach me <a href="kaushalnanda2610@gmail.com" target="_blank">kaushalnanda2610@gmail.com</a>
+- 📫 How to reach me kaushalnanda2610@gmail.com
 
 <h4>how can u contact me </H4>
 <a href="https://twitter.com/KahshalN" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushalnanda" height="30" width="40"  transition: 0.4s;
